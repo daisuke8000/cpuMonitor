@@ -6,6 +6,8 @@ Monitor CPU resources
 
 ## application image
 
+![cpumonitor-images](https://user-images.githubusercontent.com/55035595/150790159-34fbfbbe-d233-4cdd-9f6b-28209534ef38.png)
+
 ## how to use
 
 1. create environment
